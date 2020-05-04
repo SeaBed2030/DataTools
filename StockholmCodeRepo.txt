@@ -1,0 +1,6 @@
+the IBCAO generation code is held in the Stockholm University gitlab :
+https://git.bolin.so.su 
+
+Anyone can register to get an account.
+
+[Need details of actual gorup / project to link to..]
